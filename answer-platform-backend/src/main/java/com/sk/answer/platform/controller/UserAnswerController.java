@@ -34,7 +34,7 @@ import java.util.List;
 /**
  * 用户答案接口
  *
- * @author <a href="https://github.com/liyupi">skskr</a>
+ * @author <a href="https://github.com/AKA2SK">skskr</a>
  * @from <a href="https://www.code-nav.cn">编程导航学习圈</a>
  */
 @RestController

@@ -1,0 +1,1397 @@
+[
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "计划好将做的事情以及何时做",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "什么都不想就去",
+        "key": "B"
+      }
+    ],
+    "title": "当你某日想去某个地方，你会"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "涉及事实的课程",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "涉及理论的课程",
+        "key": "B"
+      }
+    ],
+    "title": "如果你是一位老师，你愿教"
+  },
+  {
+    "options": [
+      {
+        "result": "E",
+        "value": "一个善于交际的人",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "安静缄默的人",
+        "key": "B"
+      }
+    ],
+    "title": "你通常是"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "事先安排好约会，聚会等",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "只要时机恰当就无拘无束地做任何有趣的事",
+        "key": "B"
+      }
+    ],
+    "title": "你喜欢"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "现实的人",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "想象力丰富的人",
+        "key": "B"
+      }
+    ],
+    "title": "你通常和 相处得更好？"
+  },
+  {
+    "options": [
+      {
+        "result": "E",
+        "value": "参加大家的谈话",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "只同你熟知的人单独谈话",
+        "key": "B"
+      }
+    ],
+    "title": "当你和一群人在一起时，你会"
+  },
+  {
+    "options": [
+      {
+        "result": "F",
+        "value": "情感驾驭理智",
+        "key": "A"
+      },
+      {
+        "result": "T",
+        "value": "理智驾驭情感",
+        "key": "B"
+      }
+    ],
+    "title": "往往，你是"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "有计划地",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "即兴时",
+        "key": "B"
+      }
+    ],
+    "title": "你更喜欢 做多数事情？"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "善于动手的人",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "善于创意的人",
+        "key": "B"
+      }
+    ],
+    "title": "你愿意自己被认为是一个"
+  },
+  {
+    "options": [
+      {
+        "result": "E",
+        "value": "介绍他人",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "由别人来介绍你",
+        "key": "B"
+      }
+    ],
+    "title": "在大群体中，你常更多地"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "正合你意",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "束缚了你",
+        "key": "B"
+      }
+    ],
+    "title": "按日程表办事"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "务实且有丰富常识的人",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "头脑灵活的人",
+        "key": "B"
+      }
+    ],
+    "title": "你更喜欢"
+  },
+  {
+    "options": [
+      {
+        "result": "E",
+        "value": "一小段时间来了解你",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "很久来了解你",
+        "key": "B"
+      }
+    ],
+    "title": "你觉得通常别人要花费"
+  },
+  {
+    "options": [
+      {
+        "result": "F",
+        "value": "感性的人",
+        "key": "A"
+      },
+      {
+        "result": "T",
+        "value": "一贯理性的人",
+        "key": "B"
+      }
+    ],
+    "title": "被称为 是更高的赞赏？"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "很有必要",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "没必要",
+        "key": "B"
+      }
+    ],
+    "title": "对于制定周末计划，你觉得"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "脚踏实地的人",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "常有新观点的人",
+        "key": "B"
+      }
+    ],
+    "title": "你愿把作为朋友？"
+  },
+  {
+    "options": [
+      {
+        "result": "E",
+        "value": "同他人在一起",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "独处",
+        "key": "B"
+      }
+    ],
+    "title": "多数时候，你倾向于"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "通常先安排好工作并加以完成，以免压力过大",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "在时间紧迫的情况下争分夺秒地工作",
+        "key": "B"
+      }
+    ],
+    "title": "日常工作中，你喜欢"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "喜欢作者确切地表达其意思",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "欣赏奇特新颖的表达方式",
+        "key": "B"
+      }
+    ],
+    "title": "当你为了消遣而阅读时，你"
+  },
+  {
+    "options": [
+      {
+        "result": "E",
+        "value": "只要愿意就能轻松地同几乎任何人说个没完",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "只能在特定场合下或同特定的人才愿意讲许多话",
+        "key": "B"
+      }
+    ],
+    "title": "你能否"
+  },
+  {
+    "title": "你更倾向于?",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "感性地做事"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "依逻辑行事"
+      }
+    ]
+  },
+  {
+    "title": "当有一项特殊工作时，你会 ？",
+    "options": [
+      {
+        "result": "J",
+        "key": "A",
+        "value": "在开始前精心组织策划"
+      },
+      {
+        "result": "P",
+        "key": "B",
+        "value": "在工作进行中找出必要环节"
+      }
+    ]
+  },
+  {
+    "title": "做很多人都会做的事情时，你喜欢 ？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "按惯例做"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "按自己独创的方式做"
+      }
+    ]
+  },
+  {
+    "title": "你新认识的人 说出你的兴趣所在？",
+    "options": [
+      {
+        "result": "E",
+        "key": "A",
+        "value": "马上就能"
+      },
+      {
+        "result": "I",
+        "key": "B",
+        "value": "只有当他们真正了解你之后才能"
+      }
+    ]
+  },
+  {
+    "title": "在计划一次旅行时，你更喜欢 ？",
+    "options": [
+      {
+        "result": "J",
+        "key": "A",
+        "value": "事先就知道在大部分日子所将做的事情"
+      },
+      {
+        "result": "P",
+        "key": "B",
+        "value": "在多数情况下随心所欲地行事"
+      }
+    ]
+  },
+  {
+    "title": "多数人认为你 ？",
+    "options": [
+      {
+        "result": "E",
+        "key": "A",
+        "value": "非常坦率"
+      },
+      {
+        "result": "I",
+        "key": "B",
+        "value": "不太把自己的事情告诉别人"
+      }
+    ]
+  },
+  {
+    "title": "事实还是观点？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "事实"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "观点"
+      }
+    ]
+  },
+  {
+    "title": "热忱还是坚决？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "热忱"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "坚决"
+      }
+    ]
+  },
+  {
+    "title": "切实还是创新？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "切实"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "创新"
+      }
+    ]
+  },
+  {
+    "title": "有计划还是随意？",
+    "options": [
+      {
+        "result": "J",
+        "key": "A",
+        "value": "有计划"
+      },
+      {
+        "result": "P",
+        "key": "B",
+        "value": "随意"
+      }
+    ]
+  },
+  {
+    "title": "实在还是抽象？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "实在"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "抽象"
+      }
+    ]
+  },
+  {
+    "title": "感觉还是思考？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "感觉"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "思考"
+      }
+    ]
+  },
+  {
+    "title": "已知的还是新颖的？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "已知的"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "新颖的"
+      }
+    ]
+  },
+  {
+    "title": "感性还是理性？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "感性"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "理性"
+      }
+    ]
+  },
+  {
+    "title": "安排好的还是不受限制的？",
+    "options": [
+      {
+        "result": "J",
+        "key": "A",
+        "value": "安排好的"
+      },
+      {
+        "result": "P",
+        "key": "B",
+        "value": "不受限制的"
+      }
+    ]
+  },
+  {
+    "title": "热情还是安静？",
+    "options": [
+      {
+        "result": "E",
+        "key": "A",
+        "value": "热情"
+      },
+      {
+        "result": "I",
+        "key": "B",
+        "value": "安静"
+      }
+    ]
+  },
+  {
+    "title": "温柔还是坚硬？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "温柔"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "坚硬"
+      }
+    ]
+  },
+  {
+    "title": "陈述还是观念？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "陈述"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "观念"
+      }
+    ]
+  },
+  {
+    "title": "慈悲心肠还是意志坚强？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "慈悲心肠"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "意志坚强"
+      }
+    ]
+  },
+  {
+    "title": "事实的还是理论的？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "事实的"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "理论的"
+      }
+    ]
+  },
+  {
+    "title": "很多朋友还是少许朋友？",
+    "options": [
+      {
+        "result": "E",
+        "key": "A",
+        "value": "很多朋友"
+      },
+      {
+        "result": "I",
+        "key": "B",
+        "value": "少许朋友"
+      }
+    ]
+  },
+  {
+    "title": "系统的还是自发的？",
+    "options": [
+      {
+        "result": "J",
+        "key": "A",
+        "value": "系统的"
+      },
+      {
+        "result": "P",
+        "key": "B",
+        "value": "自发的"
+      }
+    ]
+  },
+  {
+    "title": "确定还是推测？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "确定"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "推测"
+      }
+    ]
+  },
+  {
+    "title": "宽容还是坚定？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "宽容"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "坚定"
+      }
+    ]
+  },
+  {
+    "title": "必然性还是可能性？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "必然性"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "可能性"
+      }
+    ]
+  },
+  {
+    "title": "动之以情还是晓之以理？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "动之以情"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "晓之以理"
+      }
+    ]
+  },
+  {
+    "title": "健谈还是缄默？",
+    "options": [
+      {
+        "result": "E",
+        "key": "A",
+        "value": "健谈"
+      },
+      {
+        "result": "I",
+        "key": "B",
+        "value": "缄默"
+      }
+    ]
+  },
+  {
+    "title": "温和还是力量？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "温和"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "力量"
+      }
+    ]
+  },
+  {
+    "title": "现实还是理想？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "现实"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "理想"
+      }
+    ]
+  },
+  {
+    "title": "好心的还是称职的？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "好心的"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "称职的"
+      }
+    ]
+  },
+  {
+    "title": "事实还是理论？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "事实"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "理论"
+      }
+    ]
+  },
+  {
+    "title": "系统还是随机？",
+    "options": [
+      {
+        "result": "J",
+        "key": "A",
+        "value": "系统"
+      },
+      {
+        "result": "P",
+        "key": "B",
+        "value": "随机"
+      }
+    ]
+  },
+  {
+    "title": "现实的还是想象的？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "现实的"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "想象的"
+      }
+    ]
+  },
+  {
+    "title": "易动情的还是客观的？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "易动情的"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "客观的"
+      }
+    ]
+  },
+  {
+    "title": "建造还是发明？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "建造"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "发明"
+      }
+    ]
+  },
+  {
+    "title": "感情丰富的还是注重实际的？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "感情丰富的"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "注重实际的"
+      }
+    ]
+  },
+  {
+    "title": "有序的还是随便的？",
+    "options": [
+      {
+        "result": "J",
+        "key": "A",
+        "value": "有序的"
+      },
+      {
+        "result": "P",
+        "key": "B",
+        "value": "随便的"
+      }
+    ]
+  },
+  {
+    "title": "开朗还是文静？",
+    "options": [
+      {
+        "result": "E",
+        "key": "A",
+        "value": "开朗"
+      },
+      {
+        "result": "I",
+        "key": "B",
+        "value": "文静"
+      }
+    ]
+  },
+  {
+    "title": "认同还是分析？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "认同"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "分析"
+      }
+    ]
+  },
+  {
+    "title": "事实的还是想象的？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "事实的"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "想象的"
+      }
+    ]
+  },
+  {
+    "title": "祝福还是利益？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "祝福"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "利益"
+      }
+    ]
+  },
+  {
+    "title": "详实还是概括？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "详实"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "概括"
+      }
+    ]
+  },
+  {
+    "title": "决定还是冲动？",
+    "options": [
+      {
+        "result": "J",
+        "key": "A",
+        "value": "决定"
+      },
+      {
+        "result": "P",
+        "key": "B",
+        "value": "冲动"
+      }
+    ]
+  },
+  {
+    "title": "制作还是创造？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "制作"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "创造"
+      }
+    ]
+  },
+  {
+    "title": "热情还是客观？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "热情"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "客观"
+      }
+    ]
+  },
+  {
+    "title": "实用的还是迷人的？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "实用的"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "迷人的"
+      }
+    ]
+  },
+  {
+    "title": "体谅的还是公正的？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "体谅的"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "公正的"
+      }
+    ]
+  },
+  {
+    "title": "爱交际还是爱文静？",
+    "options": [
+      {
+        "result": "E",
+        "key": "A",
+        "value": "爱交际"
+      },
+      {
+        "result": "I",
+        "key": "B",
+        "value": "爱文静"
+      }
+    ]
+  },
+  {
+    "title": "敏感还是合理？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "敏感"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "合理"
+      }
+    ]
+  },
+  {
+    "title": "制造还是设计？",
+    "options": [
+      {
+        "result": "S",
+        "key": "A",
+        "value": "制造"
+      },
+      {
+        "result": "N",
+        "key": "B",
+        "value": "设计"
+      }
+    ]
+  },
+  {
+    "title": "有同情心还是有逻辑头脑？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "有同情心"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "有逻辑头脑"
+      }
+    ]
+  },
+  {
+    "title": "公开的还是私人的？",
+    "options": [
+      {
+        "result": "E",
+        "key": "A",
+        "value": "公开的"
+      },
+      {
+        "result": "I",
+        "key": "B",
+        "value": "私人的"
+      }
+    ]
+  },
+  {
+    "title": "同情怜悯还是深谋远虑？",
+    "options": [
+      {
+        "result": "F",
+        "key": "A",
+        "value": "同情怜悯"
+      },
+      {
+        "result": "T",
+        "key": "B",
+        "value": "深谋远虑"
+      }
+    ]
+  },
+  {
+    "title": "你通常更喜欢",
+    "options": [
+      {
+        "key": "A",
+        "value": "提前安排好业余活动",
+        "result": "J"
+      },
+      {
+        "key": "B",
+        "value": "即兴地做事情",
+        "result": "P"
+      }
+    ]
+  },
+  {
+    "title": "你觉得被许多人围着",
+    "options": [
+      {
+        "key": "A",
+        "value": "让你感到更有精神",
+        "result": "E"
+      },
+      {
+        "key": "B",
+        "value": "常让你精力衰竭",
+        "result": "I"
+      }
+    ]
+  },
+  {
+    "title": "多数情况下，你更喜欢",
+    "options": [
+      {
+        "key": "A",
+        "value": "按日程表办事",
+        "result": "J"
+      },
+      {
+        "key": "B",
+        "value": "顺其自然",
+        "result": "P"
+      }
+    ]
+  },
+  {
+    "title": "在聚会中，你",
+    "options": [
+      {
+        "key": "A",
+        "value": "总是玩得很开心",
+        "result": "E"
+      },
+      {
+        "key": "B",
+        "value": "有时觉得无趣",
+        "result": "I"
+      }
+    ]
+  },
+  {
+    "title": "作决定时，对于你来说更重要的是",
+    "options": [
+      {
+        "key": "A",
+        "value": "考虑人们的感受和观点",
+        "result": "F"
+      },
+      {
+        "key": "B",
+        "value": "权衡事实",
+        "result": "T"
+      }
+    ]
+  },
+  {
+    "title": "你喜欢",
+    "options": [
+      {
+        "key": "A",
+        "value": "事先很早就作好准备",
+        "result": "J"
+      },
+      {
+        "key": "B",
+        "value": "看清事态如何发展再作计划",
+        "result": "P"
+      }
+    ]
+  },
+  {
+    "title": "别人了解你？",
+    "options": [
+      {
+        "key": "A",
+        "value": "很容易",
+        "result": "E"
+      },
+      {
+        "key": "B",
+        "value": "很难",
+        "result": "I"
+      }
+    ]
+  },
+  {
+    "title": "你喜欢的处事方式是",
+    "options": [
+      {
+        "key": "A",
+        "value": "坚持那些已经有效的方法",
+        "result": "S"
+      },
+      {
+        "key": "B",
+        "value": "分析哪些仍有错并挑战未解决的问题",
+        "result": "N"
+      }
+    ]
+  },
+  {
+    "title": "你觉得自己更偏向于是一个",
+    "options": [
+      {
+        "key": "A",
+        "value": "有组织性的人",
+        "result": "J"
+      },
+      {
+        "key": "B",
+        "value": "自发性的人",
+        "result": "P"
+      }
+    ]
+  },
+  {
+    "title": "你",
+    "options": [
+      {
+        "key": "A",
+        "value": "只要愿意，就能和几乎任何一个人谈个没完",
+        "result": "E"
+      },
+      {
+        "key": "B",
+        "value": "只同和自己有共同兴趣的人才能长时间的交谈",
+        "result": "I"
+      }
+    ]
+  },
+  {
+    "title": "你愿在一个老板（老师）手下工作（学习）？",
+    "options": [
+      {
+        "key": "A",
+        "value": "脾气好，但前后不一致",
+        "result": "F"
+      },
+      {
+        "key": "B",
+        "value": "对人严厉，但有条理",
+        "result": "T"
+      }
+    ]
+  },
+  {
+    "title": "你更喜欢按照什么做大多数事情？",
+    "options": [
+      {
+        "key": "A",
+        "value": "已定的日程表",
+        "result": "J"
+      },
+      {
+        "key": "B",
+        "value": "当天的感觉",
+        "result": "P"
+      }
+    ]
+  },
+  {
+    "title": "在聚会中，你",
+    "options": [
+      {
+        "key": "A",
+        "value": "自己聊得多",
+        "result": "E"
+      },
+      {
+        "key": "B",
+        "value": "听别人聊得多",
+        "result": "I"
+      }
+    ]
+  },
+  {
+    "title": "通常，你更喜欢上涉及什么的课程？",
+    "options": [
+      {
+        "key": "A",
+        "value": "具体内容",
+        "result": "S"
+      },
+      {
+        "key": "B",
+        "value": "概念和原则",
+        "result": "N"
+      }
+    ]
+  },
+  {
+    "title": "当你开始了一项必须在一周内完成的大项目时，你会",
+    "options": [
+      {
+        "key": "A",
+        "value": "花时间列出所要做的事情及其先后次序",
+        "result": "J"
+      },
+      {
+        "key": "B",
+        "value": "直接开始",
+        "result": "P"
+      }
+    ]
+  },
+  {
+    "title": "在社交场合中，你通常觉得",
+    "options": [
+      {
+        "key": "A",
+        "value": "很容易同大多数人长时间谈话",
+        "result": "E"
+      },
+      {
+        "key": "B",
+        "value": "同某些人很难开展和维持长时间的谈话",
+        "result": "I"
+      }
+    ]
+  },
+  {
+    "title": "被称为什么是更高的赞赏？",
+    "options": [
+      {
+        "key": "A",
+        "value": "富有同情心",
+        "result": "F"
+      },
+      {
+        "key": "B",
+        "value": "有竞争力",
+        "result": "T"
+      }
+    ]
+  },
+  {
+    "title": "你觉得按计划行事",
+    "options": [
+      {
+        "key": "A",
+        "value": "多数时候是有帮助的、适宜的",
+        "result": "J"
+      },
+      {
+        "key": "B",
+        "value": "有时必要，便令人不爽",
+        "result": "P"
+      }
+    ]
+  },
+  {
+    "title": "你通常",
+    "options": [
+      {
+        "key": "A",
+        "value": "同大家打成一片",
+        "result": "E"
+      },
+      {
+        "key": "B",
+        "value": "倾向于独处",
+        "result": "I"
+      }
+    ]
+  },
+  {
+    "title": "总的来说，要完成一项重大任务，你倾向于",
+    "options": [
+      {
+        "key": "A",
+        "value": "开始先确定每一个步骤",
+        "result": "J"
+      },
+      {
+        "key": "B",
+        "value": "边做边考虑必须完成的事",
+        "result": "P"
+      }
+    ]
+  }
+]

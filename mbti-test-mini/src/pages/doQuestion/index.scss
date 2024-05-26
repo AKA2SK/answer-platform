@@ -1,0 +1,25 @@
+.doQuestionPage {
+  width: 100%;
+  height: 100%;
+
+  .title {
+    margin-bottom: 20px;
+  }
+
+  .controlBtn {
+    margin: 24px 48px;
+  }
+
+  .options-wrapper {
+    margin-top: 48px;
+  }
+
+  .progress-wrapper {
+    margin-top: calc(60vh - 64px);
+  }
+
+  .globalFooter {
+    color: #000;
+    margin-top: 1vh;
+  }
+}

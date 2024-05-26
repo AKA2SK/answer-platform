@@ -3,7 +3,7 @@
 # @from <a href="https://yupi.icu">编程导航知识星球</a>
 spring:
   application:
-    name: yudada-backend
+    name: answer-platform-backend
   # 默认 dev 环境
   profiles:
     active: dev
@@ -21,7 +21,7 @@ spring:
   # todo 需替换配置
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/yudada
+    url: jdbc:mysql://localhost:3306/answer_platform
     username: root
     password: 123456
   # Redis 配置
@@ -73,7 +73,7 @@ knife4j:
       default:
         api-rule: package
         api-rule-resources:
-          - com.yupi.yudada.controller
+          - com.sk.answer.platform.controller
 # AI 配置
 ai:
-  apiKey: 改为自己的 apiKey
+  apiKey: a31f42897fa46cb0f789160022165300.G8Sz53s9rdZyp0Ny
